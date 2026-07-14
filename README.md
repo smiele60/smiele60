@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sofia!
 
-<!--
-**smiele60/smiele60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising sophomore at Cornell's Dyson School (Applied Economics & Management), interested in the intersection of finance and technology — specifically where Python and AI can make financial workflows faster and smarter.
 
-Here are some ideas to get you started:
+What I'm doing right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Interning at a Long Island financial advisory firm, building internal AI tooling in Python to improve operational efficiency
+Completed Harvard's CS50P (Introduction to Programming with Python)
+Active in Cornell finance orgs (CFC, Banking at Cornell)
+
+
+Featured project — EquityAI
+
+An automated equity research tool that pulls real-time stock data via yfinance and generates institutional-style stock pitches using the Anthropic API.
+
+Python · yfinance · Anthropic API
+
+
