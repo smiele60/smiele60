@@ -1,4 +1,4 @@
-#Sofia Miele
+### Sofia Miele
 
 I'm a rising sophomore at Cornell's Dyson School (Applied Economics & Management), interested in the intersection of finance and technology — specifically where Python and AI can make financial workflows faster and smarter.
 
